@@ -9,7 +9,7 @@ I need some drivers for my another project with UV leds, so here were are ;)
 
 
 # Gallery
-## Schematic and bord design created in Autodesk Eagle:
+## Schematic and board design created in Autodesk Eagle:
 
 ![obraz](https://github.com/iikolodziej/PT4115-circiut-design/assets/118530880/be52d74e-ccfe-4c16-b303-957a70727e4b)
 
